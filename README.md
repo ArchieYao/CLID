@@ -10,6 +10,7 @@ cobra 是由大名鼎鼎的 spf13（golang 开发者） 开发的，GitHub 地�
 ``` go
 // 安装
 go get -u github.com/spf13/cobra
+go install github.com/spf13/cobra-cli@latest
 ```
 
 ``` shell
